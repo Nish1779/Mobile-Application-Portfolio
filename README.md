@@ -8,11 +8,14 @@ This is where all the planning of my future application in Mobile Application Po
 # UML Diagrams
 
 ## Use Case Diagram for wage management system app
-<img width="436" alt="Use Case Diagram" src=" ![Capture1](https://user-images.githubusercontent.com/64070976/151844917-a61dd3ea-7e87-4502-846e-d381dd578801.PNG)">
+<img width="537" alt="Use case Diagram" src="https://user-images.githubusercontent.com/64070976/151912895-aff4baf7-2914-436f-a664-ac6d4f9907f0.PNG">
 
 
 ## Activity Diagrams
 
 ### Activity Diagram for Admin
+<img width="256" alt="Activity Diagram Application Admin" src="https://user-images.githubusercontent.com/64070976/151912872-60b3d2a5-b170-43e9-aa05-a9c444181e7f.PNG">
 
+### Activity Diagram for End_Users
+<img width="407" alt="Activity Diagram Parking Space Owner and Tenant" src="https://user-images.githubusercontent.com/64070976/151912921-70672fc3-11ba-4130-a148-2c9e7e7cfc0e.PNG">
 
