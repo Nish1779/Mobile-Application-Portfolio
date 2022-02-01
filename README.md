@@ -4,6 +4,8 @@
 ## Date   : Jan 31, 2022
 
 This is where all the planning of my future application in Mobile Application Portfolio 1 can be found.
+![Capture1](https://user-images.githubusercontent.com/64070976/152066765-ca8a7497-23e9-4362-8e9c-a80a7882d72b.PNG)
+
 
 # UML Diagrams
 
